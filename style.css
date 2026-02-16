@@ -1,0 +1,129 @@
+.main{
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: aquamarine;
+
+}
+
+.con{
+    margin-left: 20px;
+
+}
+
+.a1{
+    background-color: white;
+    height: 80px;
+    width:auto;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+   
+}
+
+
+
+.b1{
+   
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    font-size: 13px;
+   
+
+}
+
+.b2{
+    height:60px ;
+    width: 146px;
+    
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 13px;
+    color: red;
+    
+
+    #p2{
+        color: blueviolet;
+    }
+    
+   
+}
+
+.loc{
+    color: red;
+    padding-right: 20px;
+    font-size: 25px;
+}
+
+.content{
+    display: flex;
+    gap: 20px;
+}
+
+.form-box{
+    width: 45%;
+    height: 350px;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+}
+
+.row{
+    display: flex;
+    gap: 55px;
+    margin-bottom: 25px;
+}
+ #textarea{
+    width: 100%;
+    height: 120px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px 25px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.map{
+    width: 40%;
+    height: 350px;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+iframe{
+    width: 100%;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.icon{
+    height: 30px;
+    width: auto;
+    padding-top: 10px;
+    font-size: 25px;
+
+}
+
+#c1{
+    color: darkblue;
+}
+
+#c2{
+    color:skyblue;
+}
+
+#c3{
+    color: darkcyan;
+}
