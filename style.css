@@ -39,10 +39,9 @@
 .b2{
     height:60px ;
     width: 146px;
-    
+    justify-content: center;
     align-items: center;
     font-size: 15px;
-    margin-bottom: 13px;
     color: red;
     
 
